@@ -1,6 +1,6 @@
 [project]
 # Whether to enable telemetry (default: true). No personal data is collected.
-name="MyBot"
+name="Zomato Bot"
 enable_telemetry = true
 
 
